@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>ZcashWalletGUI</Name>
+  <Repository>ulisses1478/zcashwallet</Repository>
+  <Registry>https://hub.docker.com/r/ulisses1478/zcashwallet</Registry>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support/>
+  <Project/>
+  <Overview>You need to run ZcashSwingWallet on the desktop to open the wallet&#xD;
+VNC default password: vncpassword</Overview>
+  <Category>Other: Status:Beta</Category>
+  <WebUI>http://[IP]:[PORT:6901]</WebUI>
+  <TemplateURL/>
+  <Icon>https://z.cash/wp-content/uploads/2018/09/zcash-icon-fullcolor.png</Icon>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1553482192</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Description>You need to run ZcashSwingWallet on the desktop to open the wallet&#xD;
+VNC default password: vncpassword</Description>
+  <Networking>
+    <Mode>bridge</Mode>
+    <Publish>
+      <Port>
+        <HostPort>5901</HostPort>
+        <ContainerPort>5901</ContainerPort>
+        <Protocol>tcp</Protocol>
+      </Port>
+      <Port>
+        <HostPort>6901</HostPort>
+        <ContainerPort>6901</ContainerPort>
+        <Protocol>tcp</Protocol>
+      </Port>
+    </Publish>
+  </Networking>
+  <Data>
+    <Volume>
+      <HostDir>/mnt/user/appdata/Zcashwallet/</HostDir>
+      <ContainerDir>/headless/.zcash/</ContainerDir>
+      <Mode>rw</Mode>
+    </Volume>
+  </Data>
+  <Environment>
+    <Variable>
+      <Value>PASSWORD</Value>
+      <Name>VNC_PW</Name>
+      <Mode/>
+    </Variable>
+    <Variable>
+      <Value>1280x1024</Value>
+      <Name>VNC_RESOLUTION</Name>
+      <Mode/>
+    </Variable>
+    <Variable>
+      <Value>false</Value>
+      <Name>VNC_VIEW_ONLY</Name>
+      <Mode/>
+    </Variable>
+  </Environment>
+  <Labels/>
+  <Config Name="VNC port" Target="5901" Default="" Mode="tcp" Description="Container Port: 5901" Type="Port" Display="always" Required="false" Mask="false">5901</Config>
+  <Config Name="noVNC port" Target="6901" Default="" Mode="tcp" Description="Container Port: 6901" Type="Port" Display="always" Required="false" Mask="false">6901</Config>
+  <Config Name="VNC password" Target="VNC_PW" Default="" Mode="" Description="Container Variable:  VNC_PW" Type="Variable" Display="always" Required="false" Mask="false">vncpassword</Config>
+  <Config Name="VNC resolution" Target="VNC_RESOLUTION" Default="" Mode="" Description="Container Variable: VNC_RESOLUTION" Type="Variable" Display="always" Required="false" Mask="false">1280x1024</Config>
+  <Config Name="VNC only" Target="VNC_VIEW_ONLY" Default="" Mode="" Description="Container Variable: VNC_VIEW_ONLY" Type="Variable" Display="always" Required="false" Mask="false">false</Config>
+  <Config Name="Zcash Config Path" Target="/headless/.zcash/" Default="" Mode="rw" Description="Container Path: /headless/.zcash/" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/Zcashwallet/</Config>
+</Container>
