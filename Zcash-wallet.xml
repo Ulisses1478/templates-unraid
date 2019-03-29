@@ -9,7 +9,7 @@
   <Privileged>false</Privileged>
   <Support/>
   <Project/>
-  <Overview>You need to run ZcashSwingWallet on the desktop to open the wallet&#xD;
+  <Overview>You need to run ZcashSwingWallet on the desktop to open the wallet&amp;#xD;
 VNC default password: vncpassword</Overview>
   <Category>Other: Status:Beta</Category>
   <WebUI>http://[IP]:[PORT:6901]</WebUI>
@@ -21,7 +21,7 @@ VNC default password: vncpassword</Overview>
   <DateInstalled>1553482192</DateInstalled>
   <DonateText/>
   <DonateLink/>
-  <Description>You need to run ZcashSwingWallet on the desktop to open the wallet&#xD;
+  <Description>You need to run ZcashSwingWallet on the desktop to open the wallet&amp;#xD;
 VNC default password: vncpassword</Description>
   <Networking>
     <Mode>bridge</Mode>

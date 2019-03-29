@@ -9,7 +9,7 @@
   <Privileged>false</Privileged>
   <Support/>
   <Project/>
-  <Overview>Bitcoin wallet with GUI over VNC and NoVNC.&#xD;
+  <Overview>Bitcoin wallet with GUI over VNC and NoVNC.&amp;#xD;
 VNC default password: vncpassword</Overview>
   <Category>Other: Status:Stable</Category>
   <WebUI>http://[IP]:[PORT:6901]</WebUI>
@@ -21,7 +21,7 @@ VNC default password: vncpassword</Overview>
   <DateInstalled>1553771916</DateInstalled>
   <DonateText/>
   <DonateLink/>
-  <Description>Bitcoin wallet with GUI over VNC and NoVNC.&#xD;
+  <Description>Bitcoin wallet with GUI over VNC and NoVNC.&amp;#xD;
 VNC default password: vncpassword</Description>
   <Networking>
     <Mode>bridge</Mode>
