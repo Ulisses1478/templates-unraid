@@ -11,7 +11,7 @@
   <Project/>
   <Overview>You need to run ZcashSwingWallet on the desktop to open the wallet&amp;#xD;
 VNC default password: vncpassword</Overview>
-  <Category>Other: Status:Beta</Category>
+  <Category>Other: Status:Stable</Category>
   <WebUI>http://[IP]:[PORT:6901]</WebUI>
   <TemplateURL/>
   <Icon>https://z.cash/wp-content/uploads/2018/09/zcash-icon-fullcolor.png</Icon>
