@@ -19,8 +19,8 @@ VNC default password: vncpassword</Overview>
   <PostArgs/>
   <CPUset/>
   <DateInstalled>1553771916</DateInstalled>
-  <DonateText/>
-  <DonateLink/>
+  <DonateText>Hey buy me some coffee</DonateText>
+  <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=CFSX2LRHLKHPG&amp;amp;source=url</DonateLink>
   <Description>Bitcoin wallet with GUI over VNC and NoVNC.&amp;#xD;
 VNC default password: vncpassword</Description>
   <Networking>
