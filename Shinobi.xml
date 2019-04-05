@@ -9,11 +9,11 @@
   <Privileged>false</Privileged>
   <Support/>
   <Project/>
-  <Overview>Shinobi is Open Source, written in Node.js, and real easy to use. It is the future of CCTV and NVR for developers and end-users alike. It is catered to by professionals and most importantly by the one who created it. &amp;amp;#xD;
-&amp;amp;#xD;
-To change the super user username and password you need to login into /super WebUI&amp;amp;#xD;
-Web Address : http://xxx.xxx.xxx.xxx:8080/super&amp;amp;#xD;
-Username : admin@shinobi.video&amp;amp;#xD;
+  <Overview>Shinobi is Open Source, written in Node.js, and real easy to use. It is the future of CCTV and NVR for developers and end-users alike. It is catered to by professionals and most importantly by the one who created it. &#xD;;
+&#xD;;
+To change the super user username and password you need to login into /super WebUI&#xD;;
+Web Address : http://xxx.xxx.xxx.xxx:8080/super&#xD;;
+Username : admin@shinobi.video&#xD;;
 Password : admin</Overview>
   <Category>Tools: Network:Management Status:Stable</Category>
   <WebUI>http://[IP]:[PORT:8080]</WebUI>
@@ -25,11 +25,11 @@ Password : admin</Overview>
   <DateInstalled>1554415889</DateInstalled>
   <DonateText>Hey buy me some coffee</DonateText>
   <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=CFSX2LRHLKHPG&amp;amp;source=url</DonateLink>
-  <Description>Shinobi is Open Source, written in Node.js, and real easy to use. It is the future of CCTV and NVR for developers and end-users alike. It is catered to by professionals and most importantly by the one who created it. &amp;amp;#xD;
-&amp;amp;#xD;
-To change the super user username and password you need to login into /super WebUI&amp;amp;#xD;
-Web Address : http://xxx.xxx.xxx.xxx:8080/super&amp;amp;#xD;
-Username : admin@shinobi.video&amp;amp;#xD;
+  <Description>Shinobi is Open Source, written in Node.js, and real easy to use. It is the future of CCTV and NVR for developers and end-users alike. It is catered to by professionals and most importantly by the one who created it. &#xD;;
+&#xD;;
+To change the super user username and password you need to login into /super WebUI&#xD;
+Web Address : http://xxx.xxx.xxx.xxx:8080/super&#xD;;
+Username : admin@shinobi.video&#xD;;
 Password : admin</Description>
   <Networking>
     <Mode>bridge</Mode>
