@@ -13,7 +13,7 @@
   <Category>Tools: Status:Stable</Category>
   <WebUI>http://[IP]:[PORT:8081]</WebUI>
   <TemplateURL/>
-  <Icon>https://d1q6f0aelx0por.cloudfront.net/product-logos/f80f66d3-d812-48e5-8d6f-e248b25e3dce-mongo-express.png&amp;amp;</Icon>
+  <Icon>https://d1q6f0aelx0por.cloudfront.net/product-logos/f80f66d3-d812-48e5-8d6f-e248b25e3dce-mongo-express.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
