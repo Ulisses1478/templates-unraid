@@ -19,7 +19,7 @@
   <CPUset/>
   <DateInstalled>1555081951</DateInstalled>
   <DonateText>Hey buy me some coffee</DonateText>
-  <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=CFSX2LRHLKHPG&amp;amp;source=url</DonateLink>
+  <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=PJNVJNW2CPE3G&amp;amp;source=url</DonateLink>
   <Description>A web interface for MySQL and MariaDB.</Description>
   <Networking>
     <Mode>bridge</Mode>
