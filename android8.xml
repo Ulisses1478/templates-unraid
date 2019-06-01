@@ -32,7 +32,13 @@
     </Publish>
   </Networking>
   <Data/>
-  <Environment/>
+  <Environment>
+    <Variable>
+      <Value>-gpu swiftshader_indirect -accel on</Value>
+      <Name>EMULATOR_ARGS</Name>
+      <Mode/>
+    </Variable>
+  </Environment>
   <Labels/>
   <Config Name="Host Port 1" Target="6080" Default="" Mode="tcp" Description="Container Port: 6080" Type="Port" Display="always" Required="false" Mask="false">6080</Config>
 </Container>
