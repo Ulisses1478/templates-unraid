@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>Android-8.0</Name>
-  <Repository>ulisses1478/docker-android</Repository>
+  <Repository>butomo1989/docker-android-x86-8.0</Repository>
   <Registry/>
   <Network>bridge</Network>
   <MyIP/>
