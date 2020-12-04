@@ -23,10 +23,10 @@ And this will show you 5 movies that you can download click on the and will send
   <DateInstalled>1607085285</DateInstalled>
   <DonateText>Made with love, by Ulisses</DonateText>
   <DonateLink>https://www.paypal.com/donate?hosted_button_id=AHTW8XJZZ6N86</DonateLink>
-  <Description>This is a 100% inline bot, you can't talk directly to him, you need to add your bot to your telegram and in any chat you type this:&#xD;
-@BOT_NAME NAME_OF_THE_MOVIE&#xD;
-&#xD;
-And this will show you 5 movies that you can download click on the and will send the name and the image of the movie on a message so you can send to a friend or in my case my wife.</Description>
+  <Description>With this container you will be able to ask for the bot for movies via telegram, and a message is sent to the chat you is asking for the bot, making easy to tell your friend when you are downloading a movie to watch together.&#xD;
+  &#xD;
+This is a 100% inline bot, you can't talk directly to him, you need to add your bot to your telegram and in any chat you type this:
+@BOT_NAME NAME_OF_THE_MOVIE&#xD;And this will show you 5 movies that you can download click on the and will send the name and the image of the movie on a message so you can send to a friend or in my case my wife.</Description>
   <Networking>
     <Mode>bridge</Mode>
     <Publish/>
