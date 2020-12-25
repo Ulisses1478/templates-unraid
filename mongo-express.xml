@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>mongo-express</Name>
-  <Repository>ulisses1478/mongo-express</Repository>
+  <Repository>mongo-express</Repository>
   <Registry/>
   <Network>bridge</Network>
   <MyIP/>
@@ -17,9 +17,6 @@
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1559160393</DateInstalled>
-  <DonateText>Hey buy me some coffee</DonateText>
-  <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=PJNVJNW2CPE3G&amp;amp;source=url</DonateLink>
   <Description>Web-based MongoDB admin interface, written with Node.js and express.</Description>
   <Networking>
     <Mode>bridge</Mode>

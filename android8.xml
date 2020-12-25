@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>Android-8.0</Name>
-  <Repository>ulisses1478/docker-android</Repository>
+  <Repository>butomo1989/docker-android-x86-8.0</Repository>
   <Registry/>
   <Network>bridge</Network>
   <MyIP/>
@@ -17,10 +17,6 @@
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1559173912</DateInstalled>
-  <DonateText>Hey buy me some coffee</DonateText>
-  <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=PJNVJNW2CPE3G&amp;amp;source=url</DonateLink>
-  <Description>Android in docker solution with noVNC supported and video recording. Work way better with Intel CPUs because AMD doesn't have internal graphical chip. So with AMD CPU may be unusable unless it is an APU.</Description>
   <Networking>
     <Mode>bridge</Mode>
     <Publish>
